@@ -1,4 +1,4 @@
-# lab6_semester3
+# lab6_semester4
 12 ВАРИАНТ
 Осуществить сортировку введенного пользователем массива целых чисел. Числа вводятся через запятую.
 ![image](https://github.com/AndreyS19/lab6_semester3/assets/125403674/d8877922-b4bb-4e0f-82c9-44a97b9d442e)
